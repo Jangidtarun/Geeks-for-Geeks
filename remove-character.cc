@@ -53,7 +53,7 @@ string removeChars(string string1, string string2)
 
 int main()
 {
-    string s1 = "abelode", s2 = "abl";
+    string s1 = "computer", s2 = "hot";
     cout << "s1: " << s1 << endl;
     s1 = removeChars(s1, s2);
     cout << "s1: " << s1 << endl;
